@@ -7,8 +7,8 @@ __pycache__/
 
 # Compiled source
 dist/
-build/
-*.egg-info/
+ build/
+  *.egg-info/
 
 # Virtual environment
 venv/
@@ -29,11 +29,8 @@ database.db
 # Logs
 *.log
 
-# Generated files
-results/
 
 
-large_csv_processing/processed_file/*
 
 /python3/
 /python/
