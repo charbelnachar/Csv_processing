@@ -1,0 +1,40 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Compiled source
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# Database files
+database.db
+
+# Logs
+*.log
+
+# Generated files
+results/
+
+
+large_csv_processing/processed_file/*
+
+/python3/
+/python/
+/python2/
